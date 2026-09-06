@@ -28,7 +28,7 @@
 11. **Velocity Spike** — unusually large monthly transaction spikes compared with historical activity.
 12. **Geographic Impossibility** — transactions in different cities within an implausibly short time.
 
-## 🖼️ Query Result Screenshots
+## 🖼️ Query Result Screenshots ## (only some sample screenshots)
 
 ### 1. Round-Amount Clustering
 
